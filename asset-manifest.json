@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/enhao25/React-P1.git/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/enhao25/React-P1.git/static/js/main.2171dbf8.chunk.js",
+    "main.js.map": "/enhao25/React-P1.git/static/js/main.2171dbf8.chunk.js.map",
+    "runtime-main.js": "/enhao25/React-P1.git/static/js/runtime-main.b738fbee.js",
+    "runtime-main.js.map": "/enhao25/React-P1.git/static/js/runtime-main.b738fbee.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/enhao25/React-P1.git/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.1c66bbfe.chunk.js": "/enhao25/React-P1.git/static/js/2.1c66bbfe.chunk.js",
+    "static/js/2.1c66bbfe.chunk.js.map": "/enhao25/React-P1.git/static/js/2.1c66bbfe.chunk.js.map",
+    "index.html": "/enhao25/React-P1.git/index.html",
+    "precache-manifest.37b529d6676ee9f1e8e2b6fae7a3fcb3.js": "/enhao25/React-P1.git/precache-manifest.37b529d6676ee9f1e8e2b6fae7a3fcb3.js",
+    "service-worker.js": "/enhao25/React-P1.git/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/enhao25/React-P1.git/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/enhao25/React-P1.git/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.1c66bbfe.chunk.js.LICENSE.txt": "/enhao25/React-P1.git/static/js/2.1c66bbfe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b738fbee.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.1c66bbfe.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.2171dbf8.chunk.js"
+  ]
+}
